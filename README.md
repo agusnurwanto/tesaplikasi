@@ -1,6 +1,10 @@
 # tesaplikasi
 Membuat aplikasi sederhana halaman login dengan koneksi menggunakan postgres sql
 
+![Halaman Login](https://raw.githubusercontent.com/agusnurwanto/tesaplikasi/master/images/Login tes kominfo.png)
+
+![Halaman Home](https://raw.githubusercontent.com/agusnurwanto/tesaplikasi/master/images/Beranda Tes Kominfo.png)
+
 - install PHP
 - install postgresql
 - install phppgadmin
